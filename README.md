@@ -1,6 +1,10 @@
 # MERN Project - Learning System
 Use React.js as the frontend framework, and Node.js and MongoDB as the backend server
 
+# Demo
+
+https://github.com/user-attachments/assets/f1788df8-8786-4911-a961-eec24ce114e7
+
 # Introdution
 Users have two types of identities
 1. **Students**: They can register for an account and log in. After logging in, they can view course information and register for their favorite courses
