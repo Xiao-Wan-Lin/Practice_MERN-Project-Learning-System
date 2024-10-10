@@ -3,7 +3,7 @@ Use React.js as the frontend framework, and Node.js and MongoDB as the backend s
 
 # Demo
 
-https://github.com/user-attachments/assets/f1788df8-8786-4911-a961-eec24ce114e7
+https://github.com/user-attachments/assets/93c75ee5-edf2-4d7a-b2e7-08b7eb894253
 
 # Introdution
 Users have two types of identities
